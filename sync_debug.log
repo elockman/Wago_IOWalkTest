@@ -1,0 +1,7 @@
+[2026-04-08 13:01:38] [INFO] Created: .gitignore
+[2026-04-08 13:01:38] [INFO] Created: .gitattributes
+[2026-04-08 13:01:38] [INFO] Application count summary: Found 1 applications. Setting 'cds-text-sync-multipleApps' flag to False
+[2026-04-08 13:01:39] [INFO] Saved updated sync cache with 2 objects and 2 folders.
+[2026-04-08 13:01:40] [INFO] Export complete! Updated: 0, Created: 2, Removed: 0, Failed: 0 (Identical: 0) Time elapsed: 1.65s
+[2026-04-08 13:01:40] [INFO] Export metadata saved to sync_metadata.json (v1.7.2)
+[2026-04-08 13:01:40] [INFO] Script version saved to project property
